@@ -106,8 +106,4 @@ bashCopy./mvnw test
 Frontend Testing
 bashCopynpm test
 
-<img width="1130" alt="shopping cart1" src="https://github.com/user-attachments/assets/56b11591-8465-4d1c-81d9-c86f7735a248">
-<img width="1414" alt="shopping cart2" src="https://github.com/user-attachments/assets/0be13ba3-c16d-4ab9-8fe7-fd9da460d62f">
-<img width="1310" alt="database" src="https://github.com/user-attachments/assets/84aa0e12-0a7e-4fb8-bdcd-ba13500158ee">
-
 
