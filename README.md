@@ -25,6 +25,20 @@ A full-stack e-commerce shopping cart application built with Spring Boot backend
 - Axios
 - Chakra UI
 
+## Screenshots
+
+### Shopping Cart Interface
+![Shopping Cart Interface](screenshots/shopping-cart1.png)
+*Main interface showing available items and cart functionality*
+
+### Cart with Items
+![Cart with Items](screenshots/shopping-cart2.png)
+*Shopping cart showing added items and total calculation*
+
+### Database Console
+![Database View](screenshots/database.png)
+*H2 Database console showing data persistence*
+
 ## Project Structure
 
 ### Backend
