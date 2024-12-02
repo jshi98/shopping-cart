@@ -27,25 +27,30 @@ A full-stack e-commerce shopping cart application built with Spring Boot backend
 
 ## Project Structure
 
-shopping-cart/
-├── backend/
-│   ├── src/
-│   │   ├── main/java/com/jince/shopping/
-│   │   │   ├── config/
-│   │   │   ├── controller/
-│   │   │   ├── model/
-│   │   │   ├── repository/
-│   │   │   ├── service/
-│   │   │   └── ShoppingApplication.java
-│   │   └── resources/
-│   └── pom.xml
-└── frontend/
-├── src/
-│   ├── components/
-│   ├── services/
-│   └── types/
-├── public/
-└── package.json
+### Backend
+
+- `backend/`
+  - `src/`
+    - `main/java/com/jince/shopping/`
+      - `config/` - Configuration files
+      - `controller/` - Controllers for handling requests
+      - `model/` - Data models
+      - `repository/` - Database repositories
+      - `service/` - Business logic services
+      - `ShoppingApplication.java` - Main Spring Boot application file
+    - `resources/` - Application resources (e.g., `application.yml`)
+  - `pom.xml` - Maven project configuration file
+
+### Frontend
+
+- `frontend/`
+  - `src/`
+    - `components/` - Reusable React components
+    - `services/` - API service calls
+    - `types/` - TypeScript types/interfaces
+  - `public/` - Static assets and public files
+  - `package.json` - Node.js project configuration file
+
 
 
 
